@@ -50,5 +50,12 @@ namespace Repaso2
 
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            //Cualquier cambio en el codigo
+
+            //Otro cambio más
+        }
     }
 }
